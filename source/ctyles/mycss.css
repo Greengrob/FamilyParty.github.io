@@ -43,10 +43,6 @@ body {
     color: burlywood;
 }
 
-.imgg {
-    height: 500px;
-    opacity: 0.8;
-}
 
 .animation {
     animation: myAnim 1s ease 0s 1 normal forwards;
