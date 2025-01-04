@@ -36,6 +36,7 @@ body {
     box-shadow: -12px 12px 62px 7px #000000;
     background: rgba(0, 0, 0, 0.8);
     color: burlywood;
+    height: 525px;
 }
 
 .kontact1 {
@@ -69,6 +70,10 @@ body {
     --bs-btn-disabled-color: #fff;
     --bs-btn-disabled-bg: burlywood;
     --bs-btn-disabled-border-color: burlywood;
+}
+
+.carousel-inner {
+    max-height: 600px;
 }
 
 /* Ссылка в обычном состоянии */
