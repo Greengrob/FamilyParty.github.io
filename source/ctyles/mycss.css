@@ -28,6 +28,7 @@ body {
     width: 70px;
 }
 
+
 .navbar-toggler {
     background-color: rgb(122, 122, 122);
 }
@@ -36,7 +37,7 @@ body {
     box-shadow: -12px 12px 62px 7px #000000;
     background: rgba(0, 0, 0, 0.8);
     color: burlywood;
-    height: 525px;
+    height: 425px;
 }
 
 .kontact1 {
